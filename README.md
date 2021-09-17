@@ -1,5 +1,5 @@
 # Note_Taking_App_using_RoomDatabase
-Hello this application, Creating a Note Taking App using Room Database  
+Hello, this application about creating a Note Taking App using Room Database  
 
 <img src = "https://user-images.githubusercontent.com/90592402/133769527-7c1bed10-4c43-4f32-b5b2-79579612ccdf.png" width="250" height="400"> 
 <img src = "https://user-images.githubusercontent.com/90592402/133769532-80d798c2-03d8-46a1-aff0-234aae52a4ce.png"  width="250" height="400"> 
